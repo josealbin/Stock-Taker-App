@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{ display: flex;}
+
+.filter{ position: relative; top: 0; left: 0; right: 0; bottom: 0; z-index: 1; opacity: .7;}
+
+.add-container{ position: absolute; top: 13rem; max-width: 1440px; width: 100%;}
+.add-container form{ position: relative; min-height: 50px;}
+.add-container .form-field{ display: flex; align-items: center; justify-content: space-between; height: 5rem;}
+.add-container .control-field{ display: flex;}
+
+.form-field .input-field{ display: flex; margin: 1rem; flex-direction: column; width: calc(100% / 5 - 15px);}
+.form-field .select-field{ display: flex; margin: 1rem; flex-direction: column; width: calc(100% / 5 - 15px); height: 5rem;}
+.input-field label, .select-field label{ font-size: 14px; font-weight: 500; letter-spacing: 1px; color: #4b6284;}
+.input-field input{ outline: none; background:#fafafa; font-size: 14px; font-weight: 500; color: #888888; height: 30px; margin: 8px 0; padding: 0 15px; border: 2px solid #eaeaea; transition: 0.5s; }
+.select-field select{ outline: none; font-size: 14px; font-weight: 500; color: #888888; height: 30px; margin: 8px 0; padding: 0 15px; border: 2px solid #eaeaea; transition: 0.5s; }
+.input-field input:focus, .select-field select:focus{ border: 2px solid #344a72; }
+
+.add-btn, .cancel-btn{ margin: 0 8px 5px 0;  background:#fafafa; border: 1px solid #344a72; border-right: 2px solid #344a72; color: #344a72; font-size: 15px; padding: 8px; letter-spacing: 1px; cursor: pointer; }
+.add-btn:hover, .cancel-btn:hover{ color: #fafafa; background: #344a72; }
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+    .add-container form{ display: none;}
+  }
+  

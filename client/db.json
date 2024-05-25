@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "date": "30/3/2024, 12:27:09 PM",
+      "id": "P123456",
+      "name": "Lemon Meringue",
+      "category": "Ind Tarts",
+      "stock": "32",
+      "order": "13",
+      "difference": 19
+    },
+    {
+      "date": "30/3/2024, 8:22:30 AM",
+      "id": "P234567",
+      "name": "MixFruit Tart",
+      "category": "Ind Tart",
+      "stock": "16",
+      "order": "22",
+      "difference": -6
+    },
+    {
+      "date": "2/4/2024, 7:40:07 PM",
+      "id": "P456789",
+      "name": "Beef Sausage Rolls Savory",
+      "category": "Savoury",
+      "stock": "42",
+      "order": "17",
+      "difference": 25
+    },
+    {
+      "date": "2/4/2024, 6:24:10 PM",
+      "id": "P567892",
+      "name": "Banoffee Tart",
+      "category": "Ind Tart",
+      "stock": "2",
+      "order": "13",
+      "difference": -11
+    },
+    {
+      "date": "2/4/2024, 5:14:05 PM",
+      "id": "P567898",
+      "name": "MIx Colourful Cupcakes Ind",
+      "category": "Sweet",
+      "stock": "17",
+      "order": "8",
+      "difference": 9
+    },
+    {
+      "date": "2/4/2024, 5:10:03 PM",
+      "id": "P567896",
+      "name": "Spinach SDT",
+      "category": "Savories",
+      "stock": "7",
+      "order": "10",
+      "difference": -3
+    },
+    {
+      "date": "22/3/2024, 8:14:36 pm",
+      "id": "P567895",
+      "name": "Caramel Slice L",
+      "category": "Large slices",
+      "stock": "3",
+      "order": "9",
+      "difference": -6
+    },
+    {
+      "date": "22/3/2024, 8:19:46 pm",
+      "id": "P567815",
+      "name": "Spinach Ricotta Roll",
+      "category": "Savories",
+      "stock": "9",
+      "order": "0",
+      "difference": 9
+    },
+    {
+      "date": "22/3/2024, 8:15:40 pm",
+      "id": "P567826",
+      "name": "Passion Fruit Tart IND",
+      "category": "Savories",
+      "stock": "3",
+      "order": "9",
+      "difference": -6
+    },
+    {
+      "date": "22/3/2024, 8:15:10 pm",
+      "id": "P567836",
+      "name": "Apple Pie",
+      "category": "Ind Tarts",
+      "stock": "30",
+      "order": "3",
+      "difference": 27
+    },
+    {
+      "date": "3/4/2024, 4:02:43 PM",
+      "id": "133FG",
+      "name": "Apple Cinamon",
+      "category": "Pie",
+      "stock": "4",
+      "order": "12",
+      "difference": -8
+    },
+    {
+      "id": "PI45334",
+      "date": "24/3/2024, 11:24:17 am",
+      "name": "Easter Cup Cake",
+      "category": "Ind Cake",
+      "stock": "22",
+      "order": "3",
+      "difference": 19
+    },
+    {
+      "id": "P237567",
+      "date": "24/3/2024, 5:13:22 pm",
+      "name": "Mango Passion Fruit",
+      "category": "Tarts",
+      "stock": "33",
+      "order": "19",
+      "difference": 14
+    },
+    {
+      "id": "P121456",
+      "date": "25/3/2024, 4:09:59 pm",
+      "name": "Orange Poppyseed Friand",
+      "category": "Friands ",
+      "stock": "32",
+      "order": "18",
+      "difference": 14
+    },
+    {
+      "id": "P567091",
+      "date": "27/3/2024, 6:07:37 pm",
+      "name": "Chicken Mushroom Leek Pie",
+      "category": "Savouries",
+      "stock": "12",
+      "order": "14",
+      "difference": -2
+    },
+    {
+      "date": "2/4/2024, 5:20:00 PM",
+      "id": "133LG",
+      "name": "Lemon Ricotta LG",
+      "category": "LG Cakes",
+      "stock": "16",
+      "order": "7",
+      "difference": 9
+    },
+    {
+      "id": "P237560",
+      "date": "6/4/2024, 9:25:56 AM",
+      "name": "Choc Brownie",
+      "category": "Slices",
+      "stock": "22",
+      "order": "7",
+      "difference": 15
+    },
+    {
+      "id": "P123450",
+      "date": "6/4/2024, 10:09:33 AM",
+      "name": "Lemon Meringue Lg",
+      "category": "LG Cakes",
+      "stock": "5",
+      "order": "8",
+      "difference": -3
+    }
+  ]
+}
